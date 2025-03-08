@@ -1,4 +1,4 @@
-# Python Codebase Analyzer and README Generator
+# AI Python Automated Codebase Analyzer and Documentation Generator
 
 This project provides an automated solution for analyzing a Python codebase and generating structured README documentation based on the file content. The solution extracts key information such as function names, docstrings, and class definitions from Python scripts, then summarizes and formats this information into a user-friendly README.
 
